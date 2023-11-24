@@ -1,0 +1,112 @@
+{
+  "cities": [
+    {
+      "cityName": "Mandi",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-11-14T12:51:45.082Z",
+      "notes": "Chhotii kasi Mandi DevBhoomi.",
+      "position": {
+        "lat": "31.705263442643197",
+        "lng": "76.937255859375"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Delhi",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-11-17T03:54:12.000Z",
+      "notes": "this my next location",
+      "position": {
+        "lat": "28.625053502344624",
+        "lng": "77.28881835937501"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Vidisha",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-11-15T07:21:43.743Z",
+      "notes": "nice city",
+      "position": {
+        "lat": "23.78725593937892",
+        "lng": "77.8271484375"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Singapore",
+      "country": "Singapore",
+      "emoji": "🇸🇬",
+      "date": "2023-11-15T07:34:39.868Z",
+      "notes": "love this country",
+      "position": {
+        "lat": "1.2700478525545702",
+        "lng": "103.86474609375001"
+      },
+      "id": 98443203
+    },
+    {
+      "cityName": "London",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2023-11-15T07:36:20.052Z",
+      "notes": "Smart",
+      "position": {
+        "lat": "51.41098326574145",
+        "lng": "-0.17578125"
+      },
+      "id": 98443204
+    },
+    {
+      "cityName": "Paris",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-11-15T07:37:11.395Z",
+      "notes": "Exclusive country",
+      "position": {
+        "lat": "48.82386603196481",
+        "lng": "2.3730468750000004"
+      },
+      "id": 98443205
+    },
+    {
+      "cityName": "Dharamsala",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-11-15T07:40:26.721Z",
+      "notes": "Tracking Plan to Kreri lake",
+      "position": {
+        "lat": "32.22935941492363",
+        "lng": "76.41265869140626"
+      },
+      "id": 98443206
+    },
+    {
+      "cityName": "Cincu",
+      "country": "Romania",
+      "emoji": "🇷🇴",
+      "date": "2023-11-16T11:08:41.347Z",
+      "notes": "Horrific\n",
+      "position": {
+        "lat": "45.906427257832114",
+        "lng": "24.78515625"
+      },
+      "id": 98443207
+    },
+    {
+      "cityName": "Cape Town",
+      "country": "South Africa",
+      "emoji": "🇿🇦",
+      "date": "2023-11-24T04:35:14.350Z",
+      "notes": "Dream destination.",
+      "position": {
+        "lat": "-34.05265942137598",
+        "lng": "18.413085937500004"
+      },
+      "id": 98443208
+    }
+  ]
+}
